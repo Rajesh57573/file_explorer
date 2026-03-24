@@ -210,4 +210,4 @@ In the frontend, enter `TEST/test22.txt` in the **Spell Check** input and click 
 
 ## 👨‍💻 Author
 
-**Kailash** — File Explorer Application Project
+**Kailash, Abhishek, Rajesh, Arunima** — File Explorer Application Project
